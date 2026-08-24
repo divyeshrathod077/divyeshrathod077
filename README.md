@@ -83,17 +83,6 @@ Welcome to my GitHub profile! I'm a Software Engineer and MERN Stack Developer p
 * Built an admin dashboard for managing books and orders.
 * Designed RESTful APIs for frontend-backend communication.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyeshrathod077\&show_icons=true)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=divyeshrathod077)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshrathod077\&layout=compact)
 
 ## 💬 Connect With Me
 
