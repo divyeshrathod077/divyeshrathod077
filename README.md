@@ -90,8 +90,6 @@ Welcome to my GitHub profile! I'm a Software Engineer and MERN Stack Developer p
 
 🔗 LinkedIn: https://www.linkedin.com/in/djrathod-it-lecm-cte/
 
-🔗 GitHub: https://github.com/divyeshrathod077
-
 🔗 LeetCode: https://leetcode.com/u/RathodDivyesh-123/
   
 
